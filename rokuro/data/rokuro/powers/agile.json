@@ -1,3 +1,14 @@
 {
-  
+    "hidden": "true",
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "duration": -1,
+            "amplifier": 0,
+            "show_particles": false,
+            "show_icon": true
+        }
+    }
 }
